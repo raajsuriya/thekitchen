@@ -1,0 +1,15 @@
+body {
+	margin: 0;
+	background: pink;
+	text-align: center;
+}
+table, th, td {
+	border:1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding-top:1px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+}
