@@ -1,8 +1,15 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+/*    height: 100vh;*/
+}
+
 body {
-	margin: 5px;
-	background: pink;
-	text-align: center;
-	table
+	margin-left:17px;
+	margin-right:17px;
+	background:pink;
+	text-align:center;
 }
 table, th, td {
 	border:1px solid black;
@@ -17,7 +24,7 @@ th, td {
 }
 tr:hover {background-color: coral;}
 
-table.M7 {
+/*table.M7 {
 	table-layout: auto;
-	width: 100%;
-}
+	width: 47%;
+}*/
