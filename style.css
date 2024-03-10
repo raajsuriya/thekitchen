@@ -1,3 +1,7 @@
+html {
+/*    font-family: sans-serif;*/
+}
+
 .center {
     display: flex;
     justify-content: center;
@@ -11,10 +15,9 @@ body {
 	background:pink;
 	text-align:center;
 }
+
 table, th, td {
 	border:1px solid black;
-/*	border-collapse: collapse;*/
-/*	text-align: center;*/
 }
 th, td {
 	padding-top:1px;
@@ -23,8 +26,3 @@ th, td {
 	padding-right:5px;
 }
 tr:hover {background-color: coral;}
-
-/*table.M7 {
-	table-layout: auto;
-	width: 47%;
-}*/
