@@ -1,3 +1,3 @@
 # kitchen
-Flask framework \n
+Flask framework\
 nginx, apache for hosting
